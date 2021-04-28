@@ -1,6 +1,6 @@
 from pyshorteners import Shortener
 
-ACCESS_TOKEN = "09db4f13704ba6b5204607caab3a67dbe53ab428"
+
 
 
 def short(address):
